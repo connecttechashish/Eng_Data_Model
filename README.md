@@ -123,19 +123,9 @@ Includes:
 
 ---
 
-## **🚀 How to Run**
+## ** How to Run**
 1. Load the bronze tables first.  
 2. Run the SQL scripts in order (`01 → 07`).  
 3. Turn on **Actual Execution Plan** in SSMS for the partitioning task.
-
----
-
-## **🎥 Optional Walkthrough**
-If included, the video explains:
-- Grain selection  
-- Star schema design  
-- SCD Type 2 logic  
-- Partitioning strategy  
-- Medallion architecture  
 
 ---
